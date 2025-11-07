@@ -11,4 +11,5 @@ Follow these steps to run the code:
    python main.py
 
    ```
-3. Demo Video: watch here(https://youtu.be/QQ5HchxzyP4)
+3. Demo Video: watch here[https://youtu.be/QQ5HchxzyP4]
+
